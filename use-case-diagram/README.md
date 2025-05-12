@@ -1,4 +1,4 @@
-## 📖  Simplified Use Case Diagram for Airbnb
+## 📖 Use Case Diagram for Airbnb
 
 <h3 align="left">Overview</h3>
 <p align="left">
